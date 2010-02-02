@@ -1,0 +1,28 @@
+h1. Jekyll Scaffold
+
+I made a few websites lately. For generating the static HTML i used "Jekyll":http://github.com/mojombo/jekyll/ which i really like. But to save oneself to do the same steps again and again i made me this little scaffold.
+
+h2. Usage
+
+# Clone this repository.
+@git clone git://github.com/pattex/jekyll_scaffold.git my_site@
+# Edit @_config.yml@ like you want it to be.
+# Let Jekyll do the work for you and check if everything is well done.
+@cd my_site
+jekyll --server@
+# Do your changes, like replacing the dummy posts with some more impressive stuff and adding a beautiful design.
+
+h2. License
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/" style="text-decoration:none;">
+    <img src="http://i.creativecommons.org/l/zero/1.0/88x31.png" border="0" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
+  with this work has waived all copyright and related or neighboring
+  rights to this work.
+</p>
+
+THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
