@@ -1,6 +1,9 @@
 --- 
 layout: post
 title: My first post
+tags:
+- lorem
+- ipsum
 ---
 
 Today i made me a account at "github":http://github.com/.

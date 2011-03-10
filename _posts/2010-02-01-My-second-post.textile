@@ -1,6 +1,9 @@
 --- 
 layout: post
 title: My second post
+tags:
+- lorem
+- dolor
 ---
 
 <img src="/images/ruby_logo.png" alt="Ruby" style="float:right;" />
